@@ -1,0 +1,8 @@
+{
+  "domain": "nordpool",
+  "name": "Nordpool electricity prices",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": ['requests']
+}

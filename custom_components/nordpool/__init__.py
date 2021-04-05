@@ -1,0 +1,1 @@
+"""Nordpool electricity prices"""
