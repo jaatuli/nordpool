@@ -3,6 +3,7 @@
   "name": "Nordpool electricity prices",
   "documentation": "",
   "dependencies": [],
-  "codeowners": [],
-  "requirements": ['requests']
+  "codeowners": [@jaatuli],
+  "requirements": ['requests'],
+  "version": "0.1"
 }
